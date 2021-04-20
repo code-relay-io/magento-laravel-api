@@ -1,4 +1,14 @@
 
+# Task #1 https://github.com/grayloon/magento-laravel-api/issues/55
+
+Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
+No responsibility, only fun.
+
+
+When you have finished your 15 minutes, add your next task to the readme.md. Then make a pull request to the repo.
+
+-----
+
 <p align="center">
   <img src="logo.png">
 </p>
